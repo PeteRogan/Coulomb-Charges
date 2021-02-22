@@ -1,0 +1,1 @@
+void render(LPDIRECT3DDEVICE9 d3ddev);
